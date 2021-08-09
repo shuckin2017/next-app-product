@@ -5,7 +5,7 @@ export default function Home({ catalog }) {
     return (
         <Layout>
             <section className="px-3 py-2 lg:py-8 w-full h-full">
-                <div className="text-xl lg:text-2xl text-gray-400 font-medium flex items-start content-start">
+                <div className="flex items-start content-start w-full">
                     <CatalogList catalog={catalog} />
                 </div>
             </section>
