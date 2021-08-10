@@ -6,7 +6,7 @@ export default function BasketCard() {
       <div className="container mx-auto">
         <div className="flex items-center h-full py-4 justify-between">
           <div className="flex items-center justify-center text-2xl text-blue-500 font-medium">
-            Товаров в корзине 1 — 70 000 руб
+            Товаров в корзине - 0 
           </div>
           <div>
             <Link href="/basket">
