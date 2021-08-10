@@ -1,7 +1,3 @@
-export const DetailGood = () => {
-  return (
-    <div>
-      
-    </div>
-  )
+export default function Goods() {
+    return <div></div>;
 }
